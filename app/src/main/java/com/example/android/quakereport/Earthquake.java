@@ -10,7 +10,7 @@ public class Earthquake {
     private String mLocation;
     private String mDate;
 
-    //Create public constractor
+    //Create public constructor
     public Earthquake(String magnitude, String location, String date) {
         mMagnitude = magnitude;
         mLocation = location;
